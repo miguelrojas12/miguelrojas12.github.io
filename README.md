@@ -58,14 +58,24 @@ https://youtu.be/Fpa3KdmKi3k?si=p-S4H6FLBxuxSCuY :contentReference[oaicite:10]{i
 ## Artifacts & Enhancements
 
 ### 1. Enhanced Modular Calculator Software Project  
+
+https://github.com/miguelrojas12/CS499/tree/main/Software%20Engineering%20Artifact
+
 - Original: December 2024 :contentReference[oaicite:11]{index=11}  
 - Enhanced: :contentReference[oaicite:12]{index=12}
 
 ### 2. Enhanced Binary Search Tree Project  
+
+
+https://github.com/miguelrojas12/CS499/tree/main/Algorithm%20Artifact
+
 - Original: (January 2025) :contentReference[oaicite:13]{index=13}  
 - Enhanced: :contentReference[oaicite:14]{index=14}
 
 ### 3. Enhanced Clock Software with a Database Implementation  
+
+https://github.com/miguelrojas12/CS499/tree/main/Databases%20Artifact
+
 - Original: (December 2024) :contentReference[oaicite:15]{index=15}  
 - Enhanced: :contentReference[oaicite:16]{index=16}
 
