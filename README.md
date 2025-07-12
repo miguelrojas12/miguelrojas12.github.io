@@ -58,8 +58,8 @@ https://youtu.be/Fpa3KdmKi3k?si=p-S4H6FLBxuxSCuY :contentReference[oaicite:10]{i
 ## Artifacts & Enhancements
 
 ### 1. Enhanced Modular Calculator Software Project  
-- Original: CC3220S LaunchPad, UART/I²C, December 2024 :contentReference[oaicite:11]{index=11}  
-- Enhanced: TI‑RTOS, TCP sockets, NTP, Python GUI remote app :contentReference[oaicite:12]{index=12}
+- Original: December 2024 :contentReference[oaicite:11]{index=11}  
+- Enhanced: :contentReference[oaicite:12]{index=12}
 
 ### 2. Enhanced Binary Search Tree Project  
 - Original: (January 2025) :contentReference[oaicite:13]{index=13}  
