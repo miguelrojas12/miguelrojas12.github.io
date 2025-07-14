@@ -132,6 +132,17 @@
       border-radius: 8px;
       margin: 1rem 0;
     }
+    #progress-bar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      height: 4px;
+      background: #0366d6;
+      width: 0%;
+      z-index: 9999;
+      transition: width 0.25s ease-out;
+    }
+
     @media (max-width: 768px) {
       header h1 {
         font-size: 1.5rem;
@@ -152,6 +163,7 @@
   </style>
 </head>
 <body>
+  <div id="progress-bar"></div>
   <header>
     <h1>Miguel Rojas Saavedra</h1>
     <nav>
@@ -260,5 +272,14 @@
       }
     });
   </script>
+  <script>
+    window.addEventListener('scroll', () => {
+      const scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+      const scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      const scrollPercent = (scrollTop / scrollHeight) * 100;
+      document.getElementById('progress-bar').style.width = scrollPercent + '%';
+    });
+  </script>
+
 </body>
 </html>
