@@ -12,7 +12,7 @@ My name is Miguel and I started pursuing a degree in Computer Science with a con
 
 As I’ve progressed through the program, the most important skills I have learned so far have been coding in different languages, being able to program mobile apps, develop websites, apply databases knowledge, and learn more about algorithms and its applications in software efficiency. :contentReference[oaicite:2]{index=2}
 
-I want to be a software developer, and/or a database administrator. They will help me showcase my analytic skills necessary to fulfill any project out there. :contentReference[oaicite:3]{index=3}
+I just graduated as a software developer, and a database administrator. :contentReference[oaicite:3]{index=3}
 
 Outside of the artifacts contained in this course, I’ve worked with vectors and arrays, linked lists, and hashmaps, as well as secure CRUD operations with MongoDB and SQL. I have also worked with SQLite for a project that I needed to develop an android application for. I have developed weebsites using Angular, Figma, and worked with HTML. These experiences, paired with other assignments that have emphasized secure coding practices, have helped solidify my ability to write clean, efficient, and secure code. :contentReference[oaicite:4]{index=4}
 
