@@ -10,17 +10,21 @@ This personal ePortfolio showcases my technical skills, and professional develop
 
 My name is Miguel and I started pursuing a degree in Computer Science with a concentration in Software Engineering in August 2022, effectively completing the career I started back in my home country, Venezuela.  :contentReference[oaicite:1]{index=1}
 
-As I’ve progressed through the program, the most important skills I have learned so far have been coding in different languages, being able to program mobile apps, develop websites, apply databases knowledge, and learn more about algorithms and its applications in software efficiency. :contentReference[oaicite:2]{index=2}
+As I progressed through the program, the most important skills I learned were coding in different languages, being able to program mobile apps, develop websites, apply databases knowledge, and learn more about algorithms and its applications in software efficiency. :contentReference[oaicite:2]{index=2}
 
-I just graduated as a software developer, and a database administrator, in November 2025. :contentReference[oaicite:3]{index=3}
+I graduated as a software developer, and a database administrator, in November 2025. :contentReference[oaicite:3]{index=3}
 
-Outside of the artifacts contained in this course, I’ve worked with vectors and arrays, linked lists, and hashmaps, as well as secure CRUD operations with MongoDB and SQL. I have also worked with SQLite for a project that I needed to develop an android application for. I have developed websites using Angular, Figma, Fisk, and worked with HTML. These experiences, paired with other projects that have emphasized secure coding practices, have helped solidify my ability to write clean, efficient, and secure code. :contentReference[oaicite:4]{index=4}
+Outside of the artifacts contained in my degree, showcased here, I’ve worked with vectors and arrays, linked lists, and hashmaps, as well as secure CRUD operations with MongoDB and SQL. I have also worked with SQLite for a project that I needed to develop an android application for. Visual Studio Code is my favorite EDI to use, but I've also used Visual Studio, PyCharm, Eclipse in the past. I have developed websites using Angular, Figma, Flask, and worked with HTML. These experiences, paired with other projects that have emphasized secure coding practices, have helped solidify my ability to write clean, efficient, and secure code. 
+
+Some other experiences include cybersecurity small projects using Eclipse, to scan and identify potentially vulnerable modules that could be exploited by third parties, and help update other outdated modules.
+
+:contentReference[oaicite:4]{index=4}
 
 ---
 
 ## Portfolio Summary
 
-The artifacts and enhancements exhibited in this course were selected to demonstrate a range of technical and professional skills that align with the five course outcomes across three categories:
+The artifacts and enhancements exhibited in this portfolio were selected to demonstrate a range of technical and professional skills that align with the knowledge that a software engineer should have. The projects include:
 
 - **Software Design & Engineering**
 - **Algorithms & Data Structures**
