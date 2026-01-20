@@ -87,5 +87,5 @@ https://github.com/miguelrojas12/CS499/tree/main/Databases%20Artifact
 
 ---
 
-*Hosted on GitHub Pages — Theme by orderedlist*
+For more information about my experience and possible contact information, please contact me through my social media.
 
