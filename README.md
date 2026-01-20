@@ -37,7 +37,7 @@ The artifacts and enhancements exhibited in this course were selected to demonst
 
 ---
 
-## Course Outcomes
+## Projects Outcomes
 
 1. Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
 2. Design and deliver professional‑quality oral, written, and visual communications.  
