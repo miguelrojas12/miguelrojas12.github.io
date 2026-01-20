@@ -1,20 +1,20 @@
 # Miguel Rojas Saavedra
 
-This personal ePortfolio was created for my CS‑499 Capstone Project at Southern New Hampshire University (SNHU). It showcases my academic growth, technical skills, and professional development throughout the Computer Science program.
+This personal ePortfolio showcases my technical skills, and professional development throughout the Computer Science program.
 
 [View My GitHub Profile](https://github.com/miguelrojas12)
 
-## CS499 | ePortfolio
+## Professional ePortfolio
 
 ### Introduction & Professional Self Assessment
 
-My name is Miguel and I started pursuing a degree in Computer Science with a concentration in Software Engineering in August 2024, effectively completing the career I started back in my home country, Venezuela.  :contentReference[oaicite:1]{index=1}
+My name is Miguel and I started pursuing a degree in Computer Science with a concentration in Software Engineering in August 2022, effectively completing the career I started back in my home country, Venezuela.  :contentReference[oaicite:1]{index=1}
 
 As I’ve progressed through the program, the most important skills I have learned so far have been coding in different languages, being able to program mobile apps, develop websites, apply databases knowledge, and learn more about algorithms and its applications in software efficiency. :contentReference[oaicite:2]{index=2}
 
-I just graduated as a software developer, and a database administrator. :contentReference[oaicite:3]{index=3}
+I just graduated as a software developer, and a database administrator, in November 2025. :contentReference[oaicite:3]{index=3}
 
-Outside of the artifacts contained in this course, I’ve worked with vectors and arrays, linked lists, and hashmaps, as well as secure CRUD operations with MongoDB and SQL. I have also worked with SQLite for a project that I needed to develop an android application for. I have developed weebsites using Angular, Figma, and worked with HTML. These experiences, paired with other assignments that have emphasized secure coding practices, have helped solidify my ability to write clean, efficient, and secure code. :contentReference[oaicite:4]{index=4}
+Outside of the artifacts contained in this course, I’ve worked with vectors and arrays, linked lists, and hashmaps, as well as secure CRUD operations with MongoDB and SQL. I have also worked with SQLite for a project that I needed to develop an android application for. I have developed websites using Angular, Figma, Fisk, and worked with HTML. These experiences, paired with other projects that have emphasized secure coding practices, have helped solidify my ability to write clean, efficient, and secure code. :contentReference[oaicite:4]{index=4}
 
 ---
 
