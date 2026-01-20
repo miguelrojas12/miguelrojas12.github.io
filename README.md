@@ -1,6 +1,6 @@
 # Miguel Rojas Saavedra
 
-This personal ePortfolio showcases my technical skills, and professional development throughout the Computer Science program.
+This personal ePortfolio showcases my technical skills, and professional development throughout the Computer Science program, and my personal projects after graduating.
 
 [View My GitHub Profile](https://github.com/miguelrojas12)
 
